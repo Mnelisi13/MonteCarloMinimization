@@ -1,0 +1,48 @@
+commit 64b66736624727f23fef76aeab00300d047dcb7f (HEAD -> master)
+Author: Mnelisi <mbzmne001@myuct.ac.za>
+Date:   Sun Aug 13 08:21:50 2023 +0200
+
+    "Adding comments and readability!"
+
+commit 365ca15faed3253a945b9d29fbbf08c1ff480691
+Author: Mnelisi <mbzmne001@myuct.ac.za>
+commit 365ca15faed3253a945b9d29fbbf08c1ff480691
+Author: Mnelisi <mbzmne001@myuct.ac.za>
+Date:   Sat Aug 12 00:53:20 2023 +0200
+
+commit 64b66736624727f23fef76aeab00300d047dcb7f (HEAD -> master)
+Author: Mnelisi <mbzmne001@myuct.ac.za>
+Date:   Sun Aug 13 08:21:50 2023 +0200
+
+    "Adding comments and readability!"
+
+commit 365ca15faed3253a945b9d29fbbf08c1ff480691
+Author: Mnelisi <mbzmne001@myuct.ac.za>
+Date:   Sat Aug 12 00:53:20 2023 +0200
+
+    "RosenBrok function testing"
+
+commit 697b9fef34996725daf231dcae8221f5698c5f41
+Author: Mnelisi <mbzmne001@myuct.ac.za>
+Date:   Sat Aug 12 00:51:25 2023 +0200
+
+    "RosenBrok function testing"
+
+commit 31118285faf3efb864d2a63207d8b835b8c6b937
+Author: Mnelisi <mbzmne001@myuct.ac.za>
+Date:   Sat Aug 12 00:42:02 2023 +0200
+
+    "debugging"
+
+commit e7f7b5ccc34077521b79fbf7ec0c8a09b7608534
+Author: Mnelisi <mbzmne001@myuct.ac.za>
+Date:   Wed Aug 9 15:23:37 2023 +0200
+
+    "debugging"
+
+commit 661c13e191ec1485b6e6d112adf37892c2678a02
+Author: Mnelisi <mbzmne001@myuct.ac.za>
+Date:   Tue Aug 8 00:25:58 2023 +0200
+
+    "debugging"
+

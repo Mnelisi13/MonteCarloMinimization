@@ -1,0 +1,51 @@
+Validation Results for Parallel Monte Carlo Minimization and Serial Program.
+This Validation Makes use of the Rosenbrok method to validate the correctness of the programs by checking if the solutions of a sample of grinds will yeild the same results.
+
+
+
+Grid Size: 5000 x 5000
+Search Density: 0.1
+Range[-3000,3000]
+
+Machine: Laptop
+Serial Solution: 10000
+Parallel Solution:10000  
+
+------------------------------------------
+
+Grid Size: 100 x 100
+Search Density: 0.3
+Range[-23000,23000]
+
+Machine: Laptop
+Serial Solution: 10 000
+Parallel Solution: 10 000
+------------------------------------------
+
+------------------------------------------
+
+Grid Size: 100 x 100
+Search Density: 0.4
+Range[-100,100]
+
+Machine: Laptop
+Serial Solution: 10 000
+Parallel Solution: 10 000
+------------------------------------------
+
+------------------------------------------
+
+Grid Size: 10000 x 10000
+Search Density: 0.1
+Range[-110000,110000]
+Machine: Laptop
+Serial Solution: 10 000
+Parallel Solution: 10 000
+------------------------------------------
+
+
+
+Conclusion:
+
+The results show that under different densities, grids and ranges the solution produced by the parallel solution is the same as that produced by the serial program.
+In the realm of parallel computing, where efficiency and correctness are paramount, it is of utmost importance to establish the accuracy and reliability of parallel solutions. The exploration of parallelization in the Monte Carlo Minimization problem has led to a robust conclusion: the parallel solution, when subjected to rigorous validation using the Rosenbrock function, faithfully replicates the results of the serial program. This steadfast agreement between the two implementations reaffirms the correctness and credibility of the parallel approach.
